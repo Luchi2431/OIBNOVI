@@ -1,0 +1,50 @@
+[
+  {
+    "Time": "2026-02-22T14:31:39.845822Z",
+    "Username": "ivan",
+    "Type": "Uplata",
+    "Amount": 50,
+    "Success": true,
+    "Reason": null
+  },
+  {
+    "Time": "2026-02-22T14:31:39.851403Z",
+    "Username": "ivan",
+    "Type": "Isplata",
+    "Amount": 20,
+    "Success": true,
+    "Reason": null
+  },
+  {
+    "Time": "2026-02-22T14:31:39.852186Z",
+    "Username": "ivan",
+    "Type": "Isplata",
+    "Amount": 200,
+    "Success": false,
+    "Reason": "Exceeds allowed minus"
+  },
+  {
+    "Time": "2026-02-22T14:32:39.468825Z",
+    "Username": "ivan",
+    "Type": "Uplata",
+    "Amount": 50,
+    "Success": true,
+    "Reason": null
+  },
+  {
+    "Time": "2026-02-22T14:32:39.475832Z",
+    "Username": "ivan",
+    "Type": "Isplata",
+    "Amount": 20,
+    "Success": true,
+    "Reason": null
+  },
+  {
+    "Time": "2026-02-22T14:32:39.476351Z",
+    "Username": "ivan",
+    "Type": "Isplata",
+    "Amount": 200,
+    "Success": false,
+    "Reason": "Exceeds allowed minus"
+  }
+]

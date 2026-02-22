@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUY5nUFkzyk=",
+  "success": true,
+  "projectFilePath": "/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/OibnoviConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukavlatkovic/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/lukavlatkovic/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/lukavlatkovic/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.17/microsoft.netcore.app.host.osx-arm64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

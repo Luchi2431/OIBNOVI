@@ -1,0 +1,9 @@
+[2026-02-22T14:26:53.1261170Z] ivan Uplata 50 Success=True Reason=
+[2026-02-22T14:26:53.1317550Z] ivan Isplata 20 Success=True Reason=
+[2026-02-22T14:26:53.1319210Z] ivan Isplata 200 Success=False Reason=Exceeds allowed minus
+[2026-02-22T14:31:39.8458220Z] ivan Uplata 50 Success=True Reason=
+[2026-02-22T14:31:39.8514030Z] ivan Isplata 20 Success=True Reason=
+[2026-02-22T14:31:39.8521860Z] ivan Isplata 200 Success=False Reason=Exceeds allowed minus
+[2026-02-22T14:32:39.4688250Z] ivan Uplata 50 Success=True Reason=
+[2026-02-22T14:32:39.4758320Z] ivan Isplata 20 Success=True Reason=
+[2026-02-22T14:32:39.4763510Z] ivan Isplata 200 Success=False Reason=Exceeds allowed minus

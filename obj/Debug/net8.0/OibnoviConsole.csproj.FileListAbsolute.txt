@@ -1,0 +1,14 @@
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/bin/Debug/net8.0/OibnoviConsole
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/bin/Debug/net8.0/OibnoviConsole.deps.json
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/bin/Debug/net8.0/OibnoviConsole.runtimeconfig.json
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/bin/Debug/net8.0/OibnoviConsole.dll
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/bin/Debug/net8.0/OibnoviConsole.pdb
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.AssemblyInfoInputs.cache
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.AssemblyInfo.cs
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.csproj.CoreCompileInputs.cache
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.dll
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/refint/OibnoviConsole.dll
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.pdb
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.genruntimeconfig.cache
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/ref/OibnoviConsole.dll
