@@ -37,3 +37,7 @@ Overview
 Quick notes
 
 - To create a user from CLI the certificate CN must exactly match the username (case-sensitive).
+
+For certs script:
+chmod +x scripts/generate_certs.sh
+./scripts/generate_certs.sh

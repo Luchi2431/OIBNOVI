@@ -31,3 +31,6 @@
 [2026-02-22T17:35:31.3806690+01:00] Auth success for luka (X.509 validated)
 [2026-02-22T17:46:23.6360700+01:00] Service CA certificate loaded successfully
 [2026-02-22T17:46:23.6551120+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:53:10.1540440+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:53:41.1998580+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:53:41.2159910+01:00] Auth success for admin (X.509 validated)

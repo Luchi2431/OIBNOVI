@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OibnoviConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e247c5b3b77b45b11a2393acc33583e6f50416f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82d37a6e9ba52d492f5ce84efa9ad50a300443e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OibnoviConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OibnoviConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
