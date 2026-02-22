@@ -1,0 +1,9 @@
+{
+  "admin": {
+    "Username": "admin",
+    "Group": "Sluzbenik",
+    "Cert": {
+      "CertPath": "certs/admin.crt"
+    }
+  }
+}

@@ -12,3 +12,4 @@
 /Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.pdb
 /Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.genruntimeconfig.cache
 /Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/ref/OibnoviConsole.dll
+/Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/obj/Debug/net8.0/OibnoviConsole.sourcelink.json

@@ -1,10 +1,10 @@
 {
-  "ivan": {
-    "Number": 639073674998234890,
-    "Balance": 60,
+  "test_account": {
+    "Number": 639073722724430850,
+    "Balance": 0,
     "AllowedMinus": 100,
     "Blocked": false,
-    "LastTransaction": "2026-02-22T14:32:39.475832Z",
-    "OwnerUsername": "ivan"
+    "LastTransaction": "2026-02-22T15:51:12.443129Z",
+    "OwnerUsername": "test_account"
   }
 }

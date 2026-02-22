@@ -10,6 +10,7 @@ public class FileRepository
 {
     private readonly string _accountsPath = "accounts.json";
     private readonly string _transactionsPath = "transactions.json";
+    private readonly string _usersPath = "users.json";
     private readonly JsonSerializerOptions _opts = new(JsonSerializerDefaults.General) { WriteIndented = true };
 
     public Dictionary<string, Account> LoadAccounts()
@@ -38,5 +39,19 @@ public class FileRepository
         var tmp = _transactionsPath + ".tmp";
         File.WriteAllText(tmp, JsonSerializer.Serialize(transactions, _opts));
         File.Move(tmp, _transactionsPath, true);
+    }
+
+    public Dictionary<string, User> LoadUsers()
+    {
+        if (!File.Exists(_usersPath)) return new Dictionary<string, User>();
+        var txt = File.ReadAllText(_usersPath);
+        return JsonSerializer.Deserialize<Dictionary<string, User>>(txt, _opts) ?? new Dictionary<string, User>();
+    }
+
+    public void SaveUsers(Dictionary<string, User> users)
+    {
+        var tmp = _usersPath + ".tmp";
+        File.WriteAllText(tmp, JsonSerializer.Serialize(users, _opts));
+        File.Move(tmp, _usersPath, true);
     }
 }

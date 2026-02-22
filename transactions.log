@@ -7,3 +7,10 @@
 [2026-02-22T14:32:39.4688250Z] ivan Uplata 50 Success=True Reason=
 [2026-02-22T14:32:39.4758320Z] ivan Isplata 20 Success=True Reason=
 [2026-02-22T14:32:39.4763510Z] ivan Isplata 200 Success=False Reason=Exceeds allowed minus
+[2026-02-22T15:16:14.0509680Z] ivan Uplata 50 Success=True Reason=
+[2026-02-22T15:16:14.0580280Z] ivan Isplata 20 Success=True Reason=
+[2026-02-22T15:16:14.0584890Z] ivan Isplata 200 Success=False Reason=Exceeds allowed minus
+[2026-02-22T15:18:46.6605690Z] ivan Uplata 25 Success=True Reason=
+[2026-02-22T15:18:46.6636090Z] ivan Isplata 10 Success=True Reason=
+[2026-02-22T15:32:03.5053450Z] admin Uplata 100000 Success=False Reason=Account not found
+[2026-02-22T15:32:46.9707990Z] Luka Uplata 1000 Success=True Reason=
