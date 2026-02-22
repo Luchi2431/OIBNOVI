@@ -1,0 +1,5 @@
+[2026-02-22T17:42:44.8505800+01:00] WARNING: Service CA certificate failed to load from: certs/service-ca.crt
+[2026-02-22T17:43:15.7120060+01:00] WARNING: Service CA certificate failed to load from: ../../certs/service-ca.crt
+[2026-02-22T17:44:00.7749390+01:00] WARNING: Service CA certificate failed to load from: /Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI/tests/certs/service-ca.crt
+[2026-02-22T17:45:25.4568740+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:45:56.5022620+01:00] Service CA certificate loaded successfully

@@ -6,5 +6,13 @@
     "Blocked": false,
     "LastTransaction": "2026-02-22T15:51:12.443129Z",
     "OwnerUsername": "test_account"
+  },
+  "luka": {
+    "Number": 639073748521268960,
+    "Balance": 970,
+    "AllowedMinus": 100,
+    "Blocked": false,
+    "LastTransaction": "2026-02-22T16:35:31.380854Z",
+    "OwnerUsername": "luka"
   }
 }

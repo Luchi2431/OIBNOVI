@@ -14,3 +14,8 @@
 [2026-02-22T15:18:46.6636090Z] ivan Isplata 10 Success=True Reason=
 [2026-02-22T15:32:03.5053450Z] admin Uplata 100000 Success=False Reason=Account not found
 [2026-02-22T15:32:46.9707990Z] Luka Uplata 1000 Success=True Reason=
+[2026-02-22T16:32:03.4842520Z] Luka Uplata 1000 Success=False Reason=Permission denied
+[2026-02-22T16:33:06.2175870Z] Luka Uplata 100 Success=False Reason=Permission denied
+[2026-02-22T16:34:59.5115860Z] 1000 Uplata 0 Success=False Reason=Permission denied
+[2026-02-22T16:35:04.6976540Z] luka Uplata 1000 Success=True Reason=
+[2026-02-22T16:35:31.3808460Z] luka Isplata 30 Success=True Reason=

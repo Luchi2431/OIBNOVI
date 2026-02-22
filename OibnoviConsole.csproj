@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <!-- Exclude test projects placed under tests/ from being compiled into the main executable -->
+  <ItemGroup>
+    <Compile Remove="tests\\**\\*.cs" />
+  </ItemGroup>
+
 </Project>

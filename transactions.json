@@ -1,0 +1,42 @@
+[
+  {
+    "Time": "2026-02-22T16:32:03.484252Z",
+    "Username": "Luka",
+    "Type": "Uplata",
+    "Amount": 1000,
+    "Success": false,
+    "Reason": "Permission denied"
+  },
+  {
+    "Time": "2026-02-22T16:33:06.217587Z",
+    "Username": "Luka",
+    "Type": "Uplata",
+    "Amount": 100,
+    "Success": false,
+    "Reason": "Permission denied"
+  },
+  {
+    "Time": "2026-02-22T16:34:59.511586Z",
+    "Username": "1000",
+    "Type": "Uplata",
+    "Amount": 0,
+    "Success": false,
+    "Reason": "Permission denied"
+  },
+  {
+    "Time": "2026-02-22T16:35:04.697654Z",
+    "Username": "luka",
+    "Type": "Uplata",
+    "Amount": 1000,
+    "Success": true,
+    "Reason": null
+  },
+  {
+    "Time": "2026-02-22T16:35:31.380846Z",
+    "Username": "luka",
+    "Type": "Isplata",
+    "Amount": 30,
+    "Success": true,
+    "Reason": null
+  }
+]

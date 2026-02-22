@@ -5,5 +5,12 @@
     "Cert": {
       "CertPath": "certs/admin.crt"
     }
+  },
+  "luka": {
+    "Username": "luka",
+    "Group": "Korisnik",
+    "Cert": {
+      "CertPath": "certs/luka.crt"
+    }
   }
 }

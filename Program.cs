@@ -157,7 +157,8 @@ while (true)
                 Console.Write("Group (Sluzbenik/Korisnik): ");
                 var ng = Console.ReadLine() ?? "Korisnik";
                 Console.Write("Certificate file path (e.g., certs/user.crt): ");
-                var certPath = Console.ReadLine() ?? $"certs/{nu}.crt";
+                var certPath = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(certPath)) certPath = $"certs/{nu}.crt";
 
                 // Validate cert file exists and has correct CN/OU
                 var cert = new Certificate { CertPath = certPath };

@@ -1,19 +1,39 @@
-# OIBNOVI Console App (scaffold)
+# OIBNOVI Console App
 
-This is a minimal .NET 8 console app scaffold for the project. Follow the project's PDF to implement domain logic.
+Small banking simulation with X.509 certificate authentication.
 
 Prerequisites
 
-- .NET 8 SDK (macOS) — install from https://dotnet.microsoft.com/
+- .NET 8 SDK
+- OpenSSL (for generating test certificates)
 
-Run
+Build & run
 
 ```bash
 cd /Users/lukavlatkovic/Desktop/Luka/Fax/OIBNOVI
 dotnet build
-dotnet run
+dotnet run --project OibnoviConsole.csproj
 ```
 
-Next steps
+Run tests
 
-- Extract requirements from the PDF and implement domain models, persistence, and logic.
+```bash
+dotnet test tests/Oibnovi.Tests/Oibnovi.Tests.csproj
+```
+
+Generate test certificates
+
+```bash
+./scripts/generate_certs.sh
+```
+
+Overview
+
+- Roles: `Sluzbenik` (official) and `Korisnik` (customer)
+- Auth: X.509 certificates (CN=username, OU=group)
+- Persistence: JSON files (`accounts.json`, `users.json`, `transactions.json`)
+- Logs: `events.log`, `transactions.log`
+
+Quick notes
+
+- To create a user from CLI the certificate CN must exactly match the username (case-sensitive).

@@ -2,3 +2,32 @@
 [2026-02-22T16:51:12.4427380+01:00] Auth success for admin (X.509 validated)
 [2026-02-22T16:51:12.4430280+01:00] Auth success for admin (X.509 validated)
 [2026-02-22T16:51:12.4489560+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:23:59.0362960+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:24:07.0356780+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:25:57.4755730+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:26:01.7442000+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:26:10.7705140+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:26:57.1112590+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:27:34.9300370+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:29:35.1114140+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:29:41.5578090+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:31:33.0897970+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:31:50.8435960+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:32:03.4838320+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:32:32.5936470+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:32:32.5938940+01:00] Authorization failure: luka tried to read Luka balance
+[2026-02-22T17:33:06.2173130+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:33:54.9732660+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:34:03.2419440+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:34:06.9809280+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:34:12.1265870+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:34:19.7824910+01:00] Auth success for admin (X.509 validated)
+[2026-02-22T17:34:37.6846810+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:34:42.2285900+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:34:49.0891500+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:34:59.5114230+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:35:04.6973730+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:35:21.5999520+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:35:31.3806690+01:00] Auth success for luka (X.509 validated)
+[2026-02-22T17:46:23.6360700+01:00] Service CA certificate loaded successfully
+[2026-02-22T17:46:23.6551120+01:00] Auth success for admin (X.509 validated)
